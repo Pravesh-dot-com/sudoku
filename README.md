@@ -1,0 +1,2 @@
+# sudoku
+Sudoku the game
